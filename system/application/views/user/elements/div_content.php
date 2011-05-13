@@ -1,0 +1,3 @@
+
+	<?View::showFromData('content');?>
+	

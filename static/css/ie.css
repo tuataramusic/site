@@ -1,0 +1,24 @@
+.services ul li {
+	zoom:1;
+	}
+.ie7 .avtorzation .textbox  {
+	height:17px;
+	padding-top:5px;
+	}
+.ie7 .select {
+	margin-top:4px;
+	}
+.ie7 .partner-inside-2 .table .select{
+	width:150px;
+	}
+
+
+.ie8 .avtorzation .remember-password {
+	top:93px;
+	}
+.ie7 .avtorzation .remember-password {
+	top:92px;
+	}
+.autorization-inner .remember-password {
+	top:59px;
+	}
